@@ -1,3 +1,2 @@
-<<<<<<< HEAD
 # Question-Bank-Manager
 =======
